@@ -1,8 +1,8 @@
 ### 🛠️ Technical Expertise
 
-* **Frontend Development:** React.js, Next.js, TypeScript, JavaScript (ES6+), Tailwind CSS, HTML5/CSS3
+* **Frontend Development:** React.js, Next.js, TypeScript, JavaScript , Tailwind CSS, HTML5/CSS3
 * **Backend & Database:** Node.js, Express.js, MongoDB, RESTful APIs
-* **Tools & Environment:** Git, Arch Linux, Vim/Neovim, Bash, Linux Systems Administration
+* **Tools & Environment:** Git, Arch Linux, Vim, Zsh , Vs code , Flgma 
 
 ---
 
