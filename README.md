@@ -1,8 +1,3 @@
-
-Passionate Software Engineer specializing in building robust, scalable web applications and optimizing system-level performance. Focused on clean code, modern architecture, and efficient development workflows.
-
----
-
 ### 🛠️ Technical Expertise
 
 * **Frontend Development:** React.js, Next.js, TypeScript, JavaScript (ES6+), Tailwind CSS, HTML5/CSS3
@@ -21,11 +16,11 @@ Passionate Software Engineer specializing in building robust, scalable web appli
 
 ### 📈 Featured Projects
 
-#### **[Project Name]** | *MERN Stack / Next.js*
+#### **[NONE]** | *MERN Stack / Next.js*
 * Developed a full-stack SaaS application utilizing Next.js for server-side rendering and dynamic routing.
 * Implemented a secure database schema using MongoDB and optimized API response times.
 
 
-#### **[Project Name]** | *React / Node.js*
+#### **[NONE]** | *React / Node.js*
 * Built a responsive web application featuring real-time data updates and interactive UI components.
 * Streamlined backend logic with Express.js to handle state management and asynchronous operations cleanly.
