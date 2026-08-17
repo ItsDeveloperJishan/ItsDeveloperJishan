@@ -2,7 +2,7 @@
 
 * **Frontend Development:** React.js, Next.js, TypeScript, JavaScript , Tailwind CSS, HTML5/CSS3
 * **Backend & Database:** Node.js, Express.js, MongoDB, RESTful APIs
-* **Tools & Environment:** Git, Arch Linux, NeoVim, Zsh , Vs code , Flgma 
+* **Tools & Environment:** Git, Arch Linux, NeoVim, Zed , Vs code , Flgma 
 
 ---
 
